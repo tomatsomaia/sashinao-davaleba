@@ -1,0 +1,203 @@
+
+
+
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.header{
+margin: auto;
+    display: flex;
+    justify-content:space-between;
+}
+
+
+.naw ul {
+    display: flex;
+    gap: 30px
+    ;
+}
+
+
+.conteiner{
+    background-image: url( "Support-Main-Hero-01-Desktop.webp");
+    background-color: #cccccc;
+    background-size:cover;
+    height: 300px;;
+}
+
+.naw path{
+    color: #fff;
+}
+.naw svg{
+width: 120px;
+}
+.naw , li  {
+list-style-type: none;
+
+}
+.naw  a{
+    text-decoration: none;
+    color:#fff;
+}
+.sarsh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+
+}
+.naw{
+    display: flex;
+    margin-left: 30px;
+}
+input{
+    width: 389px;
+    height: 41px;
+    
+}
+.conteiner-body{
+    max-width: 1060px;
+    width: 100%;
+    margin: auto;
+   
+}
+.content-topics  ul{
+    display: flex;
+    gap: 70px;
+    align-items: self-start;
+   padding:0px;
+}
+.content-topics h1 {
+    margin: 0;
+}
+.content-topics{
+    margin-top: 100px;
+}
+.topics-body{
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+    
+   margin-top: 60px;
+
+}
+.topics-body h1{
+    font-size: 30px;
+
+}
+
+.topic-colims{
+display: flex;
+justify-content: space-between;
+
+font-size: 14px;
+}
+
+.topic-colims h1{
+margin-bottom: 50px;
+font-size: 16px;
+
+}
+.topic-colims ul{
+    margin-bottom: 10px;
+    padding: 0px;
+}
+
+
+.video-guide{
+    gap: 30px;
+    display: flex;
+    margin-top: 80px;
+    flex: 1;
+}
+.video-guide-content a{
+color: blue;
+margin-bottom: 30px;
+
+}
+.video-guide-content p{
+margin-bottom: 30px;
+}
+.video-guide-content h1{
+    margin-bottom: 40px;
+    }
+.video-guide-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}    
+.getting-Started{
+margin-top: 80px;
+    display: flex;
+    flex: 1;
+    gap: 30px;
+}
+.getting-content a{
+    
+display: block;
+color: black;
+margin-bottom: 25px;
+}
+.getting-content h3{
+    margin-bottom: 40px;
+}
+.getting-content p{
+    margin-bottom: 30px;
+}
+.getting-content{
+    display: flex;
+    flex-direction: column;
+align-items: flex-end;
+text-align: right;
+}
+.futer{
+   height: 315px; ;
+ background-color: rgb(244, 244, 244);
+ text-align: center;
+}
+.futer button{ 
+    background-color: #fff;
+    width: 240px;
+    height: 40px;
+}
+
+.panel{
+    display: flex;
+    justify-content: space-evenly;
+    color: #fff;
+    background-color: rgb(57, 60, 65);
+}
+.futer-colums{
+    margin-top: 38px;
+    display: flex;
+    font-size: 13px;
+    border-left: solid 2px #fff;
+}
+.futer-colums li{
+    padding-bottom: 20px;
+    margin: 0px;
+    padding: omx
+    ;
+}
+
+
+.panel p{
+   margin-top: 50px ;
+}
+.end{
+   border-width: 20px;
+    border-top: solid 1px #fff;
+    color: #fff;
+    background-color: rgb(57, 60, 65);
+   
+}
+
+.end h1{
+    
+    font-size: 14px;
+    margin: 0px;
+}
